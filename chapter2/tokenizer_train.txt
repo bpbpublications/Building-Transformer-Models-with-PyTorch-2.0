@@ -1,0 +1,6 @@
+It open-source library offering a wide-range of pre-trained models (over 190).
+It has over 24K ready-to-use datasets for ML.
+Flexible library to handle pre-processing and tokenization of text data for NLP
+It supports integration with multiple frameworks (PyTorch, TensorFlow, and JAX/Flax). PyTorch is supported by all models. Other frameworks have limited support.
+Enable user to deploy model from HuggingFace with just few lines of code. Overall, allows production-ready model deployment for small to large-scale project
+Users can build web applications, host demos, and collaborate with the community in a user-friendly environment.
