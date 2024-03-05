@@ -1,2 +1,2 @@
-# Building Transformer Models with PyTorch
- Building Transformer Models with PyTorch, by BPB Publications
+# Building Transformer Models with PyTorch 2.0
+ Building Transformer Models with PyTorch 2.0, by BPB Publications
